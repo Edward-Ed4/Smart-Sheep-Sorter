@@ -57,6 +57,8 @@ This system captures an image of each sheep using an ESP32-CAM and classifies th
 4. Power up and test classification → gate direction → LCD update.
 
 ## 📷 Demo
+![WhatsApp Image 2025-06-30 at 09 46 41_c1ee33fc](https://github.com/user-attachments/assets/3636b40a-2fc2-490b-9378-4c1cac5414bc)
+
 
 ![System Architecture](images/system_diagram.png)
 
