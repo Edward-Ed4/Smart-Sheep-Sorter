@@ -4,11 +4,11 @@ An embedded system that automatically identifies and sorts sheep based on wool p
 
 ## 📋 Project Overview
 
-This system captures an image of each sheep using an ESP32-CAM and classifies them based on visible wool coverage. The result is sent to an Arduino Nano, which controls servo motors to direct sheep into separate pens and updates an LCD with status and count.
+This system captures an image of each sheep using an ESP32-CAM and classifies them based on visible wool coverage. The result is sent to an Arduino Uno, which controls servo motors to direct sheep into separate pens and updates an LCD with status and count.
 
 | Technology       | Component               |
 |------------------|--------------------------|
-| Microcontroller  | ESP32-CAM, Arduino Nano |
+| Microcontroller  | ESP32-CAM, Arduino Uno |
 | Actuators        | 2× SG90 Servo Motors     |
 | Display          | 16×2 I2C LCD             |
 | Power Supply     | 5V/2A                    |
