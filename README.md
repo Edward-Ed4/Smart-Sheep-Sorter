@@ -1,6 +1,6 @@
 # 🐑 Automated Smart Sheep Sorter
 
-An embedded system that automatically identifies and sorts sheep based on wool presence using ESP32-CAM and Arduino Nano.
+An embedded system that automatically identifies and sorts sheep based on wool presence using ESP32-CAM and Arduino Uno.
 
 ## 📋 Project Overview
 
